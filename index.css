@@ -1,0 +1,73 @@
+ section.service {
+    text-align: center;
+    height: 400px;
+    max-height: 500px;
+   
+}
+
+
+section.reparation {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 20PX;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+
+nav.table1 {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+nav.maintenance {
+    text-align: center;
+    margin-top: 60px;
+    float: left;
+    margin-left: 30px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav.diagnostic {
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+
+nav.com1 {
+    
+    
+    font-size: 20px;
+    text-align: center;
+    height: 320px;
+    width: 30%;
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+nav.com2 {
+    margin-top: 0px;
+    float: right;
+    margin-top: 0px;
+    height: 320px;
+    width: 30%;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+nav.com3 {
+    width: 30%;
+    margin-left: 450px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 70px;
+}
